@@ -1,0 +1,41 @@
+General
+   Convert to GM Studio
+   View outside of room? (so screen knockback still takes place in corners of room)
+   Maximum number of enemies can spawn at once
+
+Movement
+   Smoother movement
+
+Ability Buy
+   Make current abilities buyable
+
+Powerups
+   COMBO MODE - For 30 seconds you get unlimited ammo and a bottomless clip. Each kill puts 1 to your multiplier and the multiplier drops every second. At the end of the timer, you are given a drop equal to the value of your combo multiplier.
+   MAX AMMO - Replenish all ammo
+   ROCKETS - For 30 seconds use a rocket launcher with homing missiles and AoE damage
+   
+Perks
+   When reloading, do electricity damage in AoE
+   
+
+Orb Combiner
+   Combine orbs to create coloured shards.
+   Shards contain a small stat bonus, the more orbs you use to create them, the more bonus they give.
+   Red shards affect damage. 1 orb = +0.1% damage.
+   Blue shards affect special pool. 1 orb = +0.2 special.
+   Yellow shards affect reload speed. 1 orb = +0.2% reload speed.
+   Green shards are used to enhance and combine shards. 10 orbs = 1 shard.
+
+Enemies
+   Look at AI movement
+   Increase in speed over time
+   Potential boss fights
+
+Sounds
+   Reloading
+   Dash
+   Electric Wall
+   Bullet - Wall impact
+   Player - Enemy impact
+
+Get jack to run me through GitHub and upload for version downloads and feedback

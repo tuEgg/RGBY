@@ -1,0 +1,17 @@
+3 bullets spread
+2 bullets single
+missile
+mine
+360 burst
+laser
+increase rate of fire
+infinite clip
+dual homing missiles
+bouncy bullets
+
+
+FAN
+
+decoys
+teleport
+temporary shield
